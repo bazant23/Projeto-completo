@@ -1,0 +1,106 @@
+.principal {
+  background: #CCCCCC;
+  padding: 30px;
+  font-size: 30px;
+}
+
+p {
+  text-align: center;
+}
+
+#banner {
+  display: inline-block;
+  width: 100%;
+  margin: 30px auto;
+  height: 1000px;
+}
+
+#missao {
+  font-size: 20px;
+}
+
+em strong {
+  color: #ff0000;
+}
+
+.itens li:hover{
+  font-style: italic;
+  margin: 10px auto;
+} 
+
+
+.beneficios {
+  background-color: #FFFFFF;
+  padding: 20px;
+  margin-right: 10px;
+}
+
+.titulo-centralizado {
+  text-align: center;
+  font-size: 37px;
+  font-style: italic;
+  
+
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+  font-size: 30px;
+}
+
+#imagembeneficios {
+  width: 100%;
+  margin: 30px auto;
+  height: 700px;
+}
+
+#evolução {
+  text-align: center;
+  font-size: 40px;
+  background: url(/img/bg.jpg);
+  margin: 20px auto;
+}
+
+h1 {
+  color: #FFFFFF;
+
+
+}
+
+footer {
+  background: url(/img/bg.jpg);
+  text-align: center;
+  padding: 40px 0;
+}
+
+footer p {
+  color: #FFFFFF;
+}
+
+.copyright {
+  color: #ffffff;
+  font-size: 20px;
+  margin: 20px;
+}
+
+header div {
+  color: #ffffff;
+  background: url(/img/bg.jpg);
+  margin: 30px auto;
+}
+
+H1 {
+  text-align: center;
+  font-size: 55px;
+
+}
+
+.header-center {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+}
